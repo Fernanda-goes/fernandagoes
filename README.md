@@ -13,8 +13,8 @@
 <!-- GitHub Status  -->
 <div align="center">
   <a href="https://github.com/Italomax">
-  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=Italomax&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italomax&layout=compact&langs_count=7&theme=github_dark" />
+  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=Fernanda-goes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-goes&layout=compact&langs_count=7&theme=github_dark" />
 </div>    
  
 ----
@@ -42,7 +42,7 @@
   
 ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Italomax/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/Fenanda-goes/count.svg" />
  </p>
 
 </p>  
